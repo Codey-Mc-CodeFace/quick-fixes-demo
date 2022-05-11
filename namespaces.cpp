@@ -2,14 +2,15 @@
 
 
 
-namespace geometry::detail::common {
+namespace geometry {
+    namespace detail {
+        namespace common {
             class point {
                 // ...
             };
+        }
+    }
 }
-
-
-
 
 
 
